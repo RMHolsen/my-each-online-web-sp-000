@@ -7,7 +7,7 @@
       end
       array
     else 
-      puts "Hey! No block was given!"
+      false 
     end
     end 
 
